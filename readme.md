@@ -20,7 +20,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 ## description 
 
 * readme.md : this file
-* tidy-data.txt : data file provided as part of assignment
+* tidy-data.txt : data file to be provided as part of assignment
 * CodeBook.md : description of origin, transformations and description of tidy-data.txt
 * run_analysis.R : script used to transform original data to dataset tidy-data.txt; note the script is commented
 * tidy-data-variable_names.txt : list of variable names of data set tidy-data.txt
