@@ -95,7 +95,7 @@ names(df.cast)[2] <- "activity"
 df.names <- data.frame(variable.names=names(df.cast))
 write.table(df.names, "tidy-data-variable_names.txt")
 
-write.table(df.cast, "tidy-data.txt")
+write.table(df.cast, "tidy-data.txt", row.name=FALSE)
 #df.tidy.data <- read.table("tidy-data.txt", header = TRUE)
 
 
